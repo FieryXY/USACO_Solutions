@@ -28,7 +28,7 @@ public class GreenNumbers {
 	
 	
 	static {
-		dyn.add(new CustomSet(new BigInteger("1"), new BigInteger("1")));
+		//dyn.add(new CustomSet(new BigInteger("1"), new BigInteger("1")));
 		dyn.add(new CustomSet(new BigInteger("5"), new BigInteger("25")));
 		dyn.add(new CustomSet(new BigInteger("6"), new BigInteger("36")));
 		
@@ -37,7 +37,7 @@ public class GreenNumbers {
 	}
 	
 	public static void main(String[] args) {
-		System.out.println(get(12));
+		System.out.println(get(100));
 	}
 	
     public static BigInteger get(int n) {
@@ -56,6 +56,7 @@ public class GreenNumbers {
     		}
     	}
     	
+    	boolean continuing = true;
     	
     	
     	while(count < n) {
@@ -63,11 +64,17 @@ public class GreenNumbers {
     		if(newValue == null) {
     			continue;
     		}
-    		dyn.add(newValue);
-    		count++;
-    		if(count == n) {
+    		if(continuing) {
+    			dyn.add(newValue);
+    		}
+    		if(dyn.isEmpty()) {
     			return newValue.s;
     		}
+    		count++;
+    		if(count == n) {
+    			continuing = false;
+    		}
+    		
     	}
     	
     	
@@ -83,19 +90,22 @@ public class GreenNumbers {
     private static CustomSet nextNumber(CustomSet t) {
     	
     	String base = t.s.toString();
+    	String delimeter = "";
     	
-    	for(int j = 1; j < 10; j++) {
-    		BigInteger based = new BigInteger(j+base);
-    		BigInteger possibility = square(based, t.sqr);
-    		String str = possibility.toString();
-    		if(str.substring(str.length()-(base.length()+1)).equals(j+base)) {
-    			return new CustomSet(based, possibility);
-    		}
+    	while(true) {
+    		for(int j = 1; j < 10; j++) {
+        		BigInteger based = new BigInteger(j+delimeter+base);
+        		BigInteger possibility = square(based, t.sqr);
+        		String str = possibility.toString();
+        		if(str.substring(str.length()-(base.length()+delimeter.length()+1)).equals(j+delimeter+base)) {
+        			return new CustomSet(based, possibility);
+        		}
+        	}
+    		delimeter += "0";
     	}
     	
     	
     	
-    	return null;
     }
     
     private static BigInteger square(BigInteger s, BigInteger c) {
