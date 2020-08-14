@@ -6,6 +6,7 @@ import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.LinkedList;
 import java.util.Queue;
+import java.util.Random;
 
 
 
@@ -37,7 +38,32 @@ public class GreenNumbers {
 	}
 	
 	public static void main(String[] args) {
-		System.out.println(get(100));
+//		while(true) {
+//			String[] randomMaze = new String[4];
+//			Random rand = new Random();
+//			for(int i = 0; i < randomMaze.length; i++)
+//				for(int j = 0; j < randomMaze.length; j++) {
+//					if(randomMaze[i] == null) randomMaze[i] = "";
+//					if(i == 0 && j == 0) {
+//						randomMaze[0] = ".";
+//						continue;
+//					}
+//					randomMaze[i] += (rand.nextInt(2) == 0) ? "." : "W";
+//				}
+//					
+//			String a = String.join("\n", randomMaze);
+//			boolean tru = Finder.pathFinder(a);
+//			if(tru) {
+//				System.out.println(tru);
+//				System.out.println(a);
+//				break;
+//			}
+//		}
+		String a ="....\n"
+				+ "W..W\n"
+				+ "..W.\n"
+				+ "W.W.";
+		System.out.println(Finder.pathFinder(a));
 	}
 	
     public static BigInteger get(int n) {
