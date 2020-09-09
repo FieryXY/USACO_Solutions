@@ -6,7 +6,7 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class CodeforcesTemplate {
+public class DistanceAndAxis {
 	static FastScanner fs;
 	public static void main(String[] args) {
 //		try {
@@ -23,7 +23,24 @@ public class CodeforcesTemplate {
 	}
 	
 	private static void solve() {
+		int n = fs.nextInt();
+		int k = fs.nextInt();
+		if(n < k) {
+			System.out.println(k-n);
+			return;
+		}
 		
+		double currentB = (((double) n)/2) - (((double) k)/2);
+		if(currentB == (int) currentB) {
+			System.out.println("0");
+			return;
+		}
+		double floor = Math.floor(currentB);
+		double ceil = Math.ceil(currentB);
+		
+		double ans = Math.min(n-(2*floor+k), (2*ceil+k)-n);
+		
+		System.out.println((int) ans);
 	}
 	
 	static class FastScanner {
