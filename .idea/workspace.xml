@@ -19,130 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb3d0737-5f88-452a-b963-c29c1ec5ae5d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BlackWhiteTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coursera_Problems/tree_orders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/is_bst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/is_bst_hard.java" afterDir="false" />
+    <list default="true" id="cb3d0737-5f88-452a-b963-c29c1ec5ae5d" name="Default Changelist" comment="Some Tree Based Problems">
+      <change afterPath="$PROJECT_DIR$/src/MortalKombatTower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RopeProblem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/AVLTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/AVLTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BoatsCompetition$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BoatsCompetition$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BoatsCompetition.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BoatsCompetition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Codeforces/GiftFixer$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Codeforces/GiftFixer$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Codeforces/GiftFixer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Codeforces/GiftFixer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/CodeforcesTemplate$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CodeforcesTemplate$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/CodeforcesTemplate.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CodeforcesTemplate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Codewars_4kyu/BefungeInterpreter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Codewars_4kyu/BefungeInterpreter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Codewars_4kyu/CustomSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Codewars_4kyu/CustomSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Codewars_4kyu/Finder.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Codewars_4kyu/Finder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Codewars_4kyu/GreenNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Codewars_4kyu/GreenNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Codewars_4kyu/Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Codewars_4kyu/Pair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/BinarySearch$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/BinarySearch$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/BinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/Bracket.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/Bracket.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/Buffer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/Buffer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/BuildHeap$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/BuildHeap$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/BuildHeap$Swap.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/BuildHeap$Swap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/BuildHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/BuildHeap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/CarFueling.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/CarFueling.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/Change.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/Change.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/ChangeDP.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/ChangeDP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/CoveringSegments$Segment.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/CoveringSegments$Segment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/CoveringSegments.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/CoveringSegments.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/DifferentSummands.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/DifferentSummands.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/DotProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/DotProduct.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/EditDistance.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/EditDistance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/Fibonacci.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/FibonacciHuge.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/FibonacciHuge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/FibonacciLastDigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/FibonacciLastDigit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/FibonacciPartialSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/FibonacciPartialSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/FibonacciSumLastDigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/FibonacciSumLastDigit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/FractionalKnapsack.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/FractionalKnapsack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/GCD.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/GCD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/HashChains$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/HashChains$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/HashChains$Query.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/HashChains$Query.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/HashChains.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/HashChains.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/Inversions.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/Inversions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/Knapsack.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/Knapsack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/LCM.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/LCM.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/LCS2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/LCS2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/LargestNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/LargestNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/MajorityElement$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/MajorityElement$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/MajorityElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/MajorityElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/MaxPairwiseProduct$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/MaxPairwiseProduct$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/MaxPairwiseProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/MaxPairwiseProduct.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/MaxQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/MaxQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/Partition3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/Partition3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/PhoneBook$Contact.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/PhoneBook$Contact.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/PhoneBook$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/PhoneBook$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/PhoneBook$Query.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/PhoneBook$Query.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/PhoneBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/PhoneBook.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/Point.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/PointsAndSegments$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/PointsAndSegments$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/PointsAndSegments.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/PointsAndSegments.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/PrimitiveCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/PrimitiveCalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/Request.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/Request.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/Response.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/Response.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/ReturnThingCuzWhyNot.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/ReturnThingCuzWhyNot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/SlidingWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/SlidingWindow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/Sorting$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/Sorting$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/Sorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/Sorting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/StackWithMax$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/StackWithMax$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/StackWithMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/StackWithMax.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/StringList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/StringList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/check_brackets.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/check_brackets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/process_packages.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/process_packages.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/tree_height$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/tree_height$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/tree_height$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/tree_height$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/tree_height$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/tree_height$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/tree_height$TreeHeight.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/tree_height$TreeHeight.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Coursera_Problems/tree_height.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coursera_Problems/tree_height.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DistanceAndAxis$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DistanceAndAxis$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DistanceAndAxis.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DistanceAndAxis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/MereArray$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MereArray$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/MereArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MereArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/TernarySequence$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/TernarySequence$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/TernarySequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/TernarySequence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/USACO_Bronze/FileParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/USACO_Bronze/FileParser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/USACO_Bronze/Triangles.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/USACO_Bronze/Triangles.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/USACO_Bronze/socdist2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/USACO_Bronze/socdist2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/USACO_ContestPractice/Cow.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/USACO_ContestPractice/Cow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/USACO_ContestPractice/CowEvolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/USACO_ContestPractice/CowEvolution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/USACO_ContestPractice/FamilyTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/USACO_ContestPractice/FamilyTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/USACO_ContestPractice/FieldReduction.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/USACO_ContestPractice/FieldReduction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/USACO_ContestPractice/MilkFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/USACO_ContestPractice/MilkFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/USACO_ContestPractice/Possibility.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/USACO_ContestPractice/Possibility.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/USACO_ContestPractice/Station.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/USACO_ContestPractice/Station.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/USACO_ContestPractice/Variable.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/USACO_ContestPractice/Variable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/USACO_ContestPractice/buckets.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/USACO_ContestPractice/buckets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/USACO_ContestPractice/evolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/USACO_ContestPractice/evolution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/USACO_ContestPractice/geteven.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/USACO_ContestPractice/geteven.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/USACO_ContestPractice/lostcow.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/USACO_ContestPractice/lostcow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/USACO_ContestPractice/milkorder.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/USACO_ContestPractice/milkorder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/USACO_ContestPractice/palpath.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/USACO_ContestPractice/palpath.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/USACO_ContestPractice/socdist1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/USACO_ContestPractice/socdist1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/USACO_Training/Day$Days.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/USACO_Training/Day$Days.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/USACO_Training/Day.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/USACO_Training/Day.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/USACO_Training/Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/USACO_Training/Pair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/USACO_Training/beads.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/USACO_Training/beads.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/USACO_Training/friday.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/USACO_Training/friday.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/USACO_Training/gift1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/USACO_Training/gift1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/USACO_Training/milk2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/USACO_Training/milk2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/USACO_Training/namenum.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/USACO_Training/namenum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/USACO_Training/palsquare.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/USACO_Training/palsquare.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/USACO_Training/ride.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/USACO_Training/ride.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/USACO_Training/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/USACO_Training/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/USACO_Training/transform.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/USACO_Training/transform.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/process_packages.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/process_packages.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/socdist1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/socdist1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/socdist2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/socdist2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tracing.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tracing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tree_height$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tree_height$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tree_height$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tree_height$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tree_height$TreeHeight.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tree_height$TreeHeight.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tree_height.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tree_height.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BlackWhiteTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BlackWhiteTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testinput.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testinput.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -178,9 +59,18 @@
       <recent name="C:\Users\sohan\IdeaProjects\USACO_Solutions\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.is_bst_hard">
+  <component name="RunManager" selected="Application.MortalKombatTower">
     <configuration name="BlackWhiteTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BlackWhiteTree" />
+      <module name="USACO_Solutions" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/testinput.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MortalKombatTower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MortalKombatTower" />
       <module name="USACO_Solutions" />
       <option name="REDIRECT_INPUT" value="true" />
       <option name="INPUT_FILE" value="$PROJECT_DIR$/testinput.txt" />
@@ -224,6 +114,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MortalKombatTower" />
         <item itemvalue="Application.is_bst_hard" />
         <item itemvalue="Application.is_bst" />
         <item itemvalue="Application.tree_orders" />
@@ -243,6 +134,14 @@
       <option name="presentableId" value="Default" />
       <updated>1583116173341</updated>
     </task>
+    <task id="LOCAL-00001" summary="Some Tree Based Problems">
+      <created>1599968749750</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599968749750</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -256,6 +155,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Some Tree Based Problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some Tree Based Problems" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599966714141">
@@ -274,54 +177,63 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1599621111546" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1599968242386">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1600567036652">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1599968242386" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1600567036652" />
     <state width="1877" height="321" key="GridCell.Tab.0.bottom/1920.-121.1920.1160/0.0.1920.1040@1920.-121.1920.1160" timestamp="1599793966232" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1599968242386">
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1600567036652">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.center/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1599968242386" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1600567036652" />
     <state width="1877" height="321" key="GridCell.Tab.0.center/1920.-121.1920.1160/0.0.1920.1040@1920.-121.1920.1160" timestamp="1599793966232" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1599968242386">
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1600567036652">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.left/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1599968242386" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1600567036652" />
     <state width="1877" height="321" key="GridCell.Tab.0.left/1920.-121.1920.1160/0.0.1920.1040@1920.-121.1920.1160" timestamp="1599793966231" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1599968242386">
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1600567036652">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.right/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1599968242386" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1600567036652" />
     <state width="1877" height="321" key="GridCell.Tab.0.right/1920.-121.1920.1160/0.0.1920.1040@1920.-121.1920.1160" timestamp="1599793966232" />
-    <state width="1877" height="396" key="GridCell.Tab.1.bottom" timestamp="1599792986972">
-      <screen x="1920" y="-121" width="1920" height="1160" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1599968806838">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1599621548328" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1599968806838" />
     <state width="1877" height="396" key="GridCell.Tab.1.bottom/1920.-121.1920.1160/0.0.1920.1040@1920.-121.1920.1160" timestamp="1599792986972" />
-    <state width="1877" height="396" key="GridCell.Tab.1.center" timestamp="1599792986971">
-      <screen x="1920" y="-121" width="1920" height="1160" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1599968806837">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1599621548328" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1599968806837" />
     <state width="1877" height="396" key="GridCell.Tab.1.center/1920.-121.1920.1160/0.0.1920.1040@1920.-121.1920.1160" timestamp="1599792986971" />
-    <state width="1877" height="396" key="GridCell.Tab.1.left" timestamp="1599792986971">
-      <screen x="1920" y="-121" width="1920" height="1160" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1599968806837">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1599621548328" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1599968806837" />
     <state width="1877" height="396" key="GridCell.Tab.1.left/1920.-121.1920.1160/0.0.1920.1040@1920.-121.1920.1160" timestamp="1599792986971" />
-    <state width="1877" height="396" key="GridCell.Tab.1.right" timestamp="1599792986971">
-      <screen x="1920" y="-121" width="1920" height="1160" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1599968806837">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1599621548328" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1599968806837" />
     <state width="1877" height="396" key="GridCell.Tab.1.right/1920.-121.1920.1160/0.0.1920.1040@1920.-121.1920.1160" timestamp="1599792986971" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1599968756386">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1599968756386" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/BlackWhiteTree.java</url>
-          <line>110</line>
+          <line>114</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/is_bst_hard.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
