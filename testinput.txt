@@ -1,2 +1,2 @@
 4
-gos1 rso2 pdf3 gsf2
+3 1 4 2
