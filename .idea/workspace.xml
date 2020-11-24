@@ -20,13 +20,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb3d0737-5f88-452a-b963-c29c1ec5ae5d" name="Default Changelist" comment="Some Tree Based Problems">
-      <change afterPath="$PROJECT_DIR$/src/PokemonArmy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Acyclicity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reachability.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/USACO_Training/CowEvolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/USACO_Training/GoldPaperScissors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/triangles.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MortalKombatTower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/MortalKombatTower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/USACO_Solutions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/USACO_Solutions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/BoatsCompetition$FastScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/BoatsCompetition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DistanceAndAxis$FastScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DistanceAndAxis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BlackWhiteTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/BlackWhiteTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BoatsCompetition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/BoatsCompetition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DistanceAndAxis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/DistanceAndAxis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PokemonArmy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PokemonArmy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testinput.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testinput.txt" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,33 +59,40 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583116447800" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../League-Authentication-Service" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sohan\IdeaProjects\USACO_Solutions" />
       <recent name="C:\Users\sohan\IdeaProjects\USACO_Solutions\src" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.PokemonArmy">
-    <configuration name="MortalKombatTower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.MortalKombatTower" />
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="Acyclicity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Acyclicity" />
+      <module name="USACO_Solutions" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/testinput.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoldPaperScissors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="USACO_Training.GoldPaperScissors" />
       <module name="USACO_Solutions" />
       <option name="REDIRECT_INPUT" value="true" />
       <option name="INPUT_FILE" value="$PROJECT_DIR$/testinput.txt" />
@@ -91,6 +109,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="USACO_Solutions" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/testinput.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="REDIRECT_INPUT" value="true" />
       <option name="INPUT_FILE" value="$PROJECT_DIR$/testinput.txt" />
@@ -98,44 +125,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="is_bst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="is_bst" />
+    <configuration name="triangles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="triangles" />
       <module name="USACO_Solutions" />
       <option name="REDIRECT_INPUT" value="true" />
       <option name="INPUT_FILE" value="$PROJECT_DIR$/testinput.txt" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="is_bst_hard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="is_bst_hard" />
-      <module name="USACO_Solutions" />
-      <option name="REDIRECT_INPUT" value="true" />
-      <option name="INPUT_FILE" value="$PROJECT_DIR$/testinput.txt" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="tree_orders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coursera_Problems.tree_orders" />
-      <module name="USACO_Solutions" />
-      <option name="REDIRECT_INPUT" value="true" />
-      <option name="INPUT_FILE" value="$PROJECT_DIR$/testinput.txt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.triangles" />
+        <item itemvalue="Application.Acyclicity" />
+        <item itemvalue="Application.GoldPaperScissors" />
         <item itemvalue="Application.PokemonArmy" />
-        <item itemvalue="Application.MortalKombatTower" />
-        <item itemvalue="Application.is_bst_hard" />
-        <item itemvalue="Application.is_bst" />
-        <item itemvalue="Application.tree_orders" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -162,85 +177,118 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Some Tree Based Problems" />
     <option name="LAST_COMMIT_MESSAGE" value="Some Tree Based Problems" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599966714141">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="761" y="275" key="#Project_Structure" timestamp="1606181102784">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="761" y="275" key="#Project_Structure/3840.452.1920.1140/0.0.2560.1400@0.0.2560.1400" timestamp="1606181102784" />
+    <state x="552" y="236" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606181150609">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1599966714141" />
+    <state x="552" y="236" key="#com.intellij.execution.impl.EditConfigurationsDialog/3840.452.1920.1140/0.0.2560.1400@0.0.2560.1400" timestamp="1606181150609" />
+    <state x="729" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603129622364">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="729" y="322" key="#com.intellij.fileTypes.FileTypeChooser/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1603129622364" />
     <state x="740" y="225" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1599620767498">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="225" key="#com.intellij.ide.macro.MacrosDialog/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1599620767498" />
-    <state width="417" height="466" key="DebuggerActiveHint" timestamp="1599668443740">
-      <screen x="1920" y="-121" width="1920" height="1160" />
+    <state width="417" height="418" key="DebuggerActiveHint" timestamp="1605487212737">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="417" height="418" key="DebuggerActiveHint/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1605487212737" />
     <state width="417" height="466" key="DebuggerActiveHint/1920.-121.1920.1160/0.0.1920.1040@1920.-121.1920.1160" timestamp="1599668443740" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1599621111546">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1601846280023">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1599621111546" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1600567036652">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1601846280023" />
+    <state width="2517" height="492" key="GridCell.Tab.0.bottom" timestamp="1606183628524">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1600567036652" />
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom/1920.-121.1920.1160/0.0.1920.1040@1920.-121.1920.1160" timestamp="1599793966232" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1600567036652">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1605488284599" />
+    <state width="1877" height="319" key="GridCell.Tab.0.bottom/1920.-121.1920.1160/0.0.1920.1040@1920.-121.1920.1160" timestamp="1601943957775" />
+    <state width="2517" height="492" key="GridCell.Tab.0.bottom/3840.452.1920.1140/0.0.2560.1400@0.0.2560.1400" timestamp="1606183628524" />
+    <state width="2517" height="492" key="GridCell.Tab.0.center" timestamp="1606183628523">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.center/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1600567036652" />
-    <state width="1877" height="321" key="GridCell.Tab.0.center/1920.-121.1920.1160/0.0.1920.1040@1920.-121.1920.1160" timestamp="1599793966232" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1600567036652">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1605488284599" />
+    <state width="1877" height="319" key="GridCell.Tab.0.center/1920.-121.1920.1160/0.0.1920.1040@1920.-121.1920.1160" timestamp="1601943957775" />
+    <state width="2517" height="492" key="GridCell.Tab.0.center/3840.452.1920.1140/0.0.2560.1400@0.0.2560.1400" timestamp="1606183628523" />
+    <state width="2517" height="492" key="GridCell.Tab.0.left" timestamp="1606183628523">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.left/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1600567036652" />
-    <state width="1877" height="321" key="GridCell.Tab.0.left/1920.-121.1920.1160/0.0.1920.1040@1920.-121.1920.1160" timestamp="1599793966231" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1600567036652">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1605488284599" />
+    <state width="1877" height="319" key="GridCell.Tab.0.left/1920.-121.1920.1160/0.0.1920.1040@1920.-121.1920.1160" timestamp="1601943957775" />
+    <state width="2517" height="492" key="GridCell.Tab.0.left/3840.452.1920.1140/0.0.2560.1400@0.0.2560.1400" timestamp="1606183628523" />
+    <state width="2517" height="492" key="GridCell.Tab.0.right" timestamp="1606183628524">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.right/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1600567036652" />
-    <state width="1877" height="321" key="GridCell.Tab.0.right/1920.-121.1920.1160/0.0.1920.1040@1920.-121.1920.1160" timestamp="1599793966232" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1599968806838">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1605488284599" />
+    <state width="1877" height="319" key="GridCell.Tab.0.right/1920.-121.1920.1160/0.0.1920.1040@1920.-121.1920.1160" timestamp="1601943957775" />
+    <state width="2517" height="492" key="GridCell.Tab.0.right/3840.452.1920.1140/0.0.2560.1400@0.0.2560.1400" timestamp="1606183628524" />
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom" timestamp="1606183628524">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1599968806838" />
-    <state width="1877" height="396" key="GridCell.Tab.1.bottom/1920.-121.1920.1160/0.0.1920.1040@1920.-121.1920.1160" timestamp="1599792986972" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1599968806837">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1605488284593" />
+    <state width="1877" height="396" key="GridCell.Tab.1.bottom/1920.-121.1920.1160/0.0.1920.1040@1920.-121.1920.1160" timestamp="1601490210821" />
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom/3840.452.1920.1140/0.0.2560.1400@0.0.2560.1400" timestamp="1606183628524" />
+    <state width="2517" height="492" key="GridCell.Tab.1.center" timestamp="1606183628524">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1599968806837" />
-    <state width="1877" height="396" key="GridCell.Tab.1.center/1920.-121.1920.1160/0.0.1920.1040@1920.-121.1920.1160" timestamp="1599792986971" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1599968806837">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1605488284593" />
+    <state width="1877" height="396" key="GridCell.Tab.1.center/1920.-121.1920.1160/0.0.1920.1040@1920.-121.1920.1160" timestamp="1601490210821" />
+    <state width="2517" height="492" key="GridCell.Tab.1.center/3840.452.1920.1140/0.0.2560.1400@0.0.2560.1400" timestamp="1606183628524" />
+    <state width="2517" height="492" key="GridCell.Tab.1.left" timestamp="1606183628524">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1599968806837" />
-    <state width="1877" height="396" key="GridCell.Tab.1.left/1920.-121.1920.1160/0.0.1920.1040@1920.-121.1920.1160" timestamp="1599792986971" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1599968806837">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1605488284593" />
+    <state width="1877" height="396" key="GridCell.Tab.1.left/1920.-121.1920.1160/0.0.1920.1040@1920.-121.1920.1160" timestamp="1601490210820" />
+    <state width="2517" height="492" key="GridCell.Tab.1.left/3840.452.1920.1140/0.0.2560.1400@0.0.2560.1400" timestamp="1606183628524" />
+    <state width="2517" height="492" key="GridCell.Tab.1.right" timestamp="1606183628524">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1599968806837" />
-    <state width="1877" height="396" key="GridCell.Tab.1.right/1920.-121.1920.1160/0.0.1920.1040@1920.-121.1920.1160" timestamp="1599792986971" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1605488284593" />
+    <state width="1877" height="396" key="GridCell.Tab.1.right/1920.-121.1920.1160/0.0.1920.1040@1920.-121.1920.1160" timestamp="1601490210821" />
+    <state width="2517" height="492" key="GridCell.Tab.1.right/3840.452.1920.1140/0.0.2560.1400@0.0.2560.1400" timestamp="1606183628524" />
+    <state x="782" y="346" key="SettingsEditor" timestamp="1606181088823">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="782" y="346" key="SettingsEditor/3840.452.1920.1140/0.0.2560.1400@0.0.2560.1400" timestamp="1606181088823" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1599968756386">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1599968756386" />
+    <state x="2584" y="351" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1601490109063">
+      <screen x="1920" y="-121" width="1920" height="1160" />
+    </state>
+    <state x="2584" y="351" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/1920.-121.1920.1160/0.0.1920.1040@1920.-121.1920.1160" timestamp="1601490109063" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601773482745">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1601773482745" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1605309512157">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/1920.-121.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1605309512157" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BlackWhiteTree.java</url>
+          <url>file://$PROJECT_DIR$/src/Codeforces/BlackWhiteTree.java</url>
           <line>114</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
@@ -249,23 +297,32 @@
           <line>63</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PokemonArmy.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Reachability.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/USACO_Training/GoldPaperScissors.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/triangles.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

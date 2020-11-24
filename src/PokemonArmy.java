@@ -2,14 +2,20 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
-import java.util.Comparator;
-import java.util.StringTokenizer;
+import java.util.*;
+import java.util.stream.Collectors;
+import java.util.stream.IntStream;
+
+//Someone pls help. It is literally the same concept as the solution by chance
+//(Local Maxima and Local Minima in Maxima-Minima pairs beside the last Maxima)
 
 public class PokemonArmy {
     static FastScanner fs;
     static int last = Integer.MIN_VALUE;
-    static int index = 1;
-    static int n;
+    static int index = 0;
+    static int[] a;
+
+
     public static void main(String[] args) {
         fs = new FastScanner(System.in);
         int cases = fs.nextInt();
@@ -18,22 +24,76 @@ public class PokemonArmy {
         }
     }
 
-    private static void solve() {
-        last = Integer.MIN_VALUE;
-        index = 1;
+    private static void readValues() {
+        int n = fs.nextInt();
+        int q = fs.nextInt();
+        a = new int[n];
+        for(int i = 0; i < a.length; i++) {
+            a[i] = fs.nextInt();
+        }
+    }
 
-         n = fs.nextInt();
+    private static void testSolve() {
+        while(true) {
+            Random r = new Random();
+            int length = r.nextInt(15)+1;
+            List<Integer> list = IntStream.range(1, length+1).boxed().collect(Collectors.toList());
+            Collections.shuffle(list);
+            a = list.stream().mapToInt(i -> i).toArray();
+            int bruteAnswer = bruteForce();
+            int elegantAnswer = solve();
+            System.out.println(Arrays.toString(a));
+            if(bruteAnswer != elegantAnswer) {
+                System.out.println("Incorrect Answer Found");
+                break;
+            }
+        }
+    }
+
+    private static int bruteForce() {
+        int combinations = (int) Math.pow(2, a.length);
+        int currentComb  = 0;
+        int greatestSum = -1;
+        for(int i = 0; i < combinations; i++) {
+          int thisSum = 0;
+          boolean plus = true;
+          for(int j = 0; j < a.length; j++) {
+              int nextNumber = ((currentComb & (int) Math.pow(2, j)) > 0) ? a[j] : 0;
+              if(nextNumber == 0) continue;
+              if(plus) {
+                  thisSum += nextNumber;
+              }
+              else {
+                  thisSum -= nextNumber;
+              }
+              plus = !plus;
+          }
+          if(thisSum > greatestSum) greatestSum = thisSum;
+          currentComb++;
+        }
+
+        System.out.println(greatestSum);
+        return greatestSum;
+    }
+
+    private static int solve() {
+        last = Integer.MIN_VALUE;
+        index = 0;
+       //readValues();
+
+
         //Strat: Find Crests and Troughs
         int sum = 0;
         int lastMin = -1;
+
         while(true) {
             int max = getMax();
             if(max == -1) {
                 sum += lastMin;
                 break;
             }
-            int min = getMin();
             sum += max;
+            int min = getMin();
             if(min == -1) {
                 break;
             }
@@ -42,6 +102,8 @@ public class PokemonArmy {
         }
 
         System.out.println(sum);
+        return sum;
+
     }
 
     private static int getMax() {
@@ -52,22 +114,20 @@ public class PokemonArmy {
     }
 
     private static int getVal(Comparator<Integer> comp) {
-        int toReturn = last;
+        int toReturn = -1;
 
-        if(index > n) {
+        if(index >= a.length) {
             return -1;
         }
 
-        while(index <= n) {
-            int next = fs.nextInt();
+        while(index < a.length) {
+            int next = a[index];
             if(comp.compare(next, last) > 0) {
                 last = next;
                 index++;
                 toReturn = next;
             }
             else {
-                last = next;
-                index++;
                 break;
             }
         }
